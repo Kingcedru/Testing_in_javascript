@@ -2,4 +2,4 @@ function cloneArray(array) {
   return [...array];
 }
 
-export default cloneArray;
+module.exports = cloneArray;
